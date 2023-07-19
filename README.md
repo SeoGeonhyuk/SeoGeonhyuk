@@ -1,4 +1,5 @@
-### Hi there 👋
+# Introduce
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sgh4123)](https://solved.ac/sgh4123/)
 
 <!--
 **SeoGeonhyuk/SeoGeonhyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
